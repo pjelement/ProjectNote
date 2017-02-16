@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MockUp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- String text view and hint of Edit Text-->
+    <string name="email">Email</string>
+
+    <string name="password">Password</string>
+
+    <string name="signInButton">Sign In</string>
+    <string name="signUpButton">Sign Up</string>
+    <string name="noteApplication">Note Application</string>
+</resources>
